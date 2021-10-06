@@ -12,4 +12,4 @@ The repository contains the learning journey/getting familiar with Scala and Fun
 * Singleton Objects
 * Pure Functions and what makes a function impure.
 
-P.S: All the support documents, assignment files and PDF of Scala and Functional Programming can be accessed in [Doc](https://github.com/Agha-Muqarib/Scala-Learning/tree/main/Docs) Folder of the repository.
+P.S: All the support documents, assignment files and PDF of Scala and Functional Programming can be accessed in [Docs](https://github.com/Agha-Muqarib/Scala-Learning/tree/main/Docs) Folder of the repository.
